@@ -1,2 +1,2 @@
-# niucme
+# https://niuc.net
 test
